@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marlborowaterdamagepros.com/sitemap.xml
